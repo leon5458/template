@@ -1,0 +1,13 @@
+<template name="msgItem">
+  <view>
+    <text bindtap='click1'>学习总结中</text>
+  </view>
+
+  <view>
+    <text bindtap='click2'>学习总结中</text>
+  </view>
+
+  <view>
+    <text bindtap='click3'>学习总结中</text>
+  </view>
+</template>

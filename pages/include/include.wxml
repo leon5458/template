@@ -1,0 +1,3 @@
+<view bindtap='click_include1'>include</view>
+<view bindtap='click_include2'>include</view>
+<view bindtap='click_include3'>include</view>

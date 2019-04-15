@@ -1,0 +1,8 @@
+  <import src="../template/template"/>
+  <view bindtap='click'>
+    <template is="msgItem"bindtap="click" ></template>
+  </view>
+ 
+  <include src="../include/include.wxml" />
+ 
+
